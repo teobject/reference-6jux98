@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://teobject.github.io/reference-6jux98/sitemap.xml
